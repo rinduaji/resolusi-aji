@@ -2,4 +2,8 @@ RESOLUSI BELAJAR
 - GITHUB
   * menambahkan file di github
   * edit dan hapus file di github
+  (BRANCH) : membuat cabang dari repo di jalur master (awal)
+  (MERGE) : menggabungkan cabang (branch) dari repo di jalur master (awal)
+  * membuat branch di github
+  * menggabungkan branch yang kita buat ke dalam master
 - GIT
