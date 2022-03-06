@@ -3,7 +3,10 @@ RESOLUSI BELAJAR
   (COMMIT) : merekam kejadian pada repo
   * menambahkan file di github
   * edit dan hapus file di github
-  (BRANCH) : cabang dari repo di jalur master (awal)
+  (BRANCH) : membuat cabang dari repo di jalur master (awal)
+  (MERGE) : menggabungkan cabang (branch) dari repo di jalur master (awal)
+  (HASH) : kode unik yg terdapat setiap (COMMIT)
+  (CHECKOUT) : kembali ke commit yang kita pilih dengan (HASH)
   * membuat branch di github
   * menggabungkan branch yang kita buat ke dalam master
 - GIT
