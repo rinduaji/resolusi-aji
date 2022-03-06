@@ -1,2 +1,6 @@
 RESOLUSI BELAJAR
 - GITHUB
+  * menambahkan file di github
+  * edit dan hapus file di github
+- GIT
+- HTML
