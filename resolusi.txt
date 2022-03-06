@@ -1,5 +1,9 @@
 RESOLUSI BELAJAR
 - GITHUB
+  (COMMIT) : merekam kejadian pada repo
   * menambahkan file di github
   * edit dan hapus file di github
+  (BRANCH) : cabang dari repo di jalur master (awal)
+  * membuat branch di github
+  * menggabungkan branch yang kita buat ke dalam master
 - GIT
